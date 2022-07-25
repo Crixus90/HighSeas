@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: HighSeas
+  m_EditorClassIdentifier: 
+  m_GroupName: HighSeas
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 392cf8b08366e0a4db277c5f07349e59
+  m_SerializeEntries:
+  - m_GUID: f89eac7354977e5428ccf4273c058375
+    m_Address: RustyCutlass.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 1982c624d67ff094fbf988c98ee2d1fe
+    m_Address: RustyCutlass.Weapon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 57815e72056d7214c96788b226a4126b
+    m_Address: AdmiralsCutlass.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 47ede2b75bcfdc543a7e7883d61e62a4
+    m_Address: AdmiralsCutlass.Weapon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: e1ed52b7458ea1b4bb31b578681e39e1
+    m_Address: Shovel.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 0655afe3735e41846abad62fc2fb7c04
+    m_Address: Shovel.Weapon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: b13e8cb3289f45143a78f095bf470a0e
+    m_Address: CommonKnife.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: f1da787aca801ad46baa991d14e4e24b
+    m_Address: CommonKnife.Weapon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 22db05958e6078d4ea17ea5f2eec26e8
+    m_Address: CommandersKnife.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 7d869b16f509a6247ae3531348723a60
+    m_Address: CommandersKnife.Weapon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: ff17dd2fe56cdc1498f2f6fd01925dbf
+    m_Address: Flintlock.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: c109c73860f5e7649954e37d978d9182
+    m_Address: Flintlock.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: bd46a35e908210d4a9ea26c6cfe50566
+    m_Address: Pellet.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: c5bfc1ae2409346459f3deefd559c4ee
+    m_Address: Pellet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 411a9858cdd67ec45b0fde448e0210fd
+    m_Address: Flintlock.ShootContainer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 42c003473d63f2848812ce8268def921
+    m_Address: PelletPouch.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 34d480ee9efb195408d86af706e132f0
+    m_Address: PelletPouch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 21311dc81e1cd754c93a4610276c1c43
+    m_Address: HighSeas.Gun.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: e57167848b765384886d3d3a560547c2
+    m_Address: Flintlock.Cocksound.Container
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: e87694881ef1f184fa4e4bbd63755749
+    m_Address: Flintlock.ShootVFX.Old
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 8adac37c32294c847842578d194c7dc2
+    m_Address: Flintlock.Holdster.Container
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 8f2ad449750b2ec4ea0598c414202ea0
+    m_Address: HighSeasMenu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: a23a69287053e8443a4529c8898b8e19
+    m_Address: HighSeasIcon.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 6660c452acc48a645969d80018272835
+    m_Address: GunPowderFlask.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: c7d83ab0f2bc61c459cdfe2532de04a3
+    m_Address: GunPowderFlask.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: b611594e84ca40f448a1d0c4202590f6
+    m_Address: Sparks.VFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: f35ab08cbd6ed2c4eb16a8a2446a1a2a
+    m_Address: Gunpowder.Flow.VFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 491295cca77574a48bc12d0602f96d15
+    m_Address: Gunpowder.Flow.Loop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: b2c43d6b7a3308a4287b4bc79f78445d
+    m_Address: HighSeas.Cutlass.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 96f50ecc30efdb947b23b7cf951f7403
+    m_Address: PirateGrenade.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: d617cc35c3b52344cb1939393c45b0db
+    m_Address: PirateGrenade.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 57b6de2dcfd555f46b919aeb5979b8a7
+    m_Address: HighSeas.Grenade.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: b4463b2ac4ebac74daea8c516e39e6ff
+    m_Address: PirateGrenade.Explosion.VFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: fa4da8b969230e9469d700cc91980b63
+    m_Address: PirateGrenade.Explosion.SFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 152f82ae84fbb824796bf7c9ad8387d4
+    m_Address: Flintlock.ShootVFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 28f09260d699517458bd40b9e7871b4f
+    m_Address: Flintlock.Sparks.Container
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 0ee2f094d7701d948b1012d27e219d38
+    m_Address: ExplosionGrenade.VFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b14c4d9d8b63f3247be008fe8b53d3ae, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b2fff48493136df45a45f415a749226c, type: 2}
+    - {fileID: 11400000, guid: 1a6c1ca8b3277074d83f0ba8bea2fd11, type: 2}

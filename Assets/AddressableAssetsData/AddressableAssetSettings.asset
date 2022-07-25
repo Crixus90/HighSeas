@@ -38,7 +38,6 @@ MonoBehaviour:
   m_BuildAddressablesWithPlayerBuild: 2
   m_overridePlayerVersion: HighSeas
   m_GroupAssets:
-  - {fileID: 11400000, guid: fbe88945f5fd22549a3b2283780ee7c2, type: 2}
   - {fileID: 11400000, guid: 7b5cd7845295efe449821e24b3a47891, type: 2}
   - {fileID: 11400000, guid: c7693ad59ef250341800b9d966602e73, type: 2}
   - {fileID: 11400000, guid: c8d93ab26df7e234584179bb4d92c043, type: 2}
