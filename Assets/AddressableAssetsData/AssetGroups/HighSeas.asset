@@ -102,7 +102,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
-  - m_GUID: 21311dc81e1cd754c93a4610276c1c43
+  - m_GUID: 1900aca28fa32aa4096e5d41553fa835
     m_Address: HighSeas.Gun.icon
     m_ReadOnly: 0
     m_SerializedLabels:
@@ -199,6 +199,11 @@ MonoBehaviour:
     - Windows
   - m_GUID: 0ee2f094d7701d948b1012d27e219d38
     m_Address: ExplosionGrenade.VFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 8691c426e3ad86147b9c11730d62b64e
+    m_Address: HighSeas.Dagger.icon
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
