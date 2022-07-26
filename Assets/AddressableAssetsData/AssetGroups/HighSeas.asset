@@ -152,8 +152,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
-  - m_GUID: 491295cca77574a48bc12d0602f96d15
-    m_Address: Gunpowder.Flow.Loop
+  - m_GUID: 3eb200431c510a447adcb32ce5512344
+    m_Address: Gunpowder.Pour.Loop
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
@@ -187,7 +187,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
-  - m_GUID: 152f82ae84fbb824796bf7c9ad8387d4
+  - m_GUID: f877993fff7af6e429be220d1f1bb132
     m_Address: Flintlock.ShootVFX
     m_ReadOnly: 0
     m_SerializedLabels:
@@ -204,6 +204,16 @@ MonoBehaviour:
     - Windows
   - m_GUID: 8691c426e3ad86147b9c11730d62b64e
     m_Address: HighSeas.Dagger.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 7b72ee38ed0228b4b96a02368d2e30fa
+    m_Address: HighSeas.Tools.icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: cacf49fc6064f9442953d69304b0a3ef
+    m_Address: Flintlock.ShootVFX.Smoke
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
