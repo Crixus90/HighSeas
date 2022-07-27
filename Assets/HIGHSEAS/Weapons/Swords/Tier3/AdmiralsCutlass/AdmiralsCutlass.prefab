@@ -897,21 +897,6 @@ Transform:
   m_Father: {fileID: 72413845887961744}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 26.248, y: 0, z: -90}
---- !u!114 &2841093414665847331
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5420193641787672830}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a899f982506aafe44b3b2503fee0f7b9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maskWidth: 2048
-  maskHeight: 2048
-  type: 0
 --- !u!1 &5486546690605519640
 GameObject:
   m_ObjectHideFlags: 0
@@ -1686,3 +1671,18 @@ MeshRenderer:
     type: 3}
   m_PrefabInstance: {fileID: 5186190429176526255}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2841093414665847331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5420193641787672830}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a899f982506aafe44b3b2503fee0f7b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maskWidth: 2048
+  maskHeight: 2048
+  type: 0
